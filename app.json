@@ -1,7 +1,9 @@
 {
   "pages": [
     "pages/home/home",
-    "pages/about/about"
+    "pages/category/category",
+    "pages/shopcart/shopcart",
+    "pages/profile/profile"
   ],
   "sitemapLocation": "sitemap76.json"
 }
