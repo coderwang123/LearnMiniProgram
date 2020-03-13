@@ -1,0 +1,29 @@
+/* pages/wcss/wcss.wxss */
+@import './style/box.wxss';
+@import './style/content.wxss';
+@import './style/weui-searchbar.wxss';
+@import '../icon/weui-icon.wxss';
+.box{
+  color: blue;
+  font-size: 32px;
+}
+.content{
+  background: purple;
+}
+.searchbar-result{margin-top:0;font-size:14px}.searchbar-result .weui-cell__bd{padding:2px 0 2px 20px;color:var(--weui-FG-1)}.searchbar-result:before{display:none}
+/* .box1{
+  width: 100px;
+  height: 100px;
+  background: orange
+}
+.box2{
+  width: 200rpx;
+  height: 200rpx;
+  background: gray;
+} */
+/* .content1{
+  font-size: 32px;
+}
+.content2{
+  font-size: 64rpx;
+} */
